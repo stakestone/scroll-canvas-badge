@@ -1,3 +1,5 @@
+@eas/contracts/=lib/eas-contracts/contracts/
+@canvas-contracts/src/=lib/canvas-contracts/src/
 @openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
 @uniswap/v3-periphery/contracts/=lib/v3-periphery/contracts/
 ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
